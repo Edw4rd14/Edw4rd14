@@ -1,7 +1,6 @@
 # HELLO! 👋 I AM EDWARD.
--------------------------
 I am currently a student studying in Singapore Polytechnic, under the Diploma in Applied AI and Analytics. 
-
+-------------------------
 🧑‍💻 Welcome to my GitHub. The repositories in my profile consists of my projects that I have worked on throughout my coding experience so far!
 
 🌍 You can also visit my personal portfolio website I created <a href="https://edwards-website.netlify.app" target="_blank" style="color:#ff565b; text-decoration-color: #ff565b;"> here </a> !
