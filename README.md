@@ -3,8 +3,8 @@
 🧑‍🎓 I am currently a student studying in Singapore Polytechnic, under the Diploma in Applied AI and Analytics. 
 
 I am also:
-  🎓 A Singapore Polytechnic Scholar
-  📈 An Aspiring Data Scientist
+  - 🎓 A Singapore Polytechnic Scholar
+  - 📈 An Aspiring Data Scientist
 
 🧑‍💻 Welcome to my GitHub. The repositories in my profile consists of my projects that I have worked on throughout my coding experience so far!
 
@@ -22,8 +22,10 @@ I am also:
 </ul>
 
  📫 Socials:
- - LinkedIn: https://www.linkedin.com/in/edward14/
- - Instagram: https://www.instagram.com/ed.w4.rd/
+ 
+LinkedIn: https://www.linkedin.com/in/edward14/
+
+Instagram: https://www.instagram.com/ed.w4.rd/
 
 🤓 Be sure to follow me for updates in my coding journey. 
 
