@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hello! 👋 I am Edward.
+-------------------------
+I am currently a student studying in Singapore Polytechnic, under the Diploma in Applied AI and Analytics. 
 
+🧑‍💻 Welcome to my GitHub. The repositories in my profile consists of my projects that I have worked on throughout my coding experience so far!
+
+🌍 You can also visit my personal portfolio website I created <a href="https://edwards-website.netlify.app"> here </a> !
+
+Thank you for visiting! 🤩
 <!--
 **Edw4rd14/Edw4rd14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
