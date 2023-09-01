@@ -1,6 +1,11 @@
 # HELLO! 👋 I AM EDWARD.
-I am currently a student studying in Singapore Polytechnic, under the Diploma in Applied AI and Analytics. 
--------------------------
+
+🧑‍🎓 I am currently a student studying in Singapore Polytechnic, under the Diploma in Applied AI and Analytics. 
+
+I am also:
+  🎓 A Singapore Polytechnic Scholar
+  📈 An Aspiring Data Scientist
+
 🧑‍💻 Welcome to my GitHub. The repositories in my profile consists of my projects that I have worked on throughout my coding experience so far!
 
 🌍 You can also visit my personal portfolio website I created <a href="https://edwards-website.netlify.app" target="_blank" style="color:#ff565b; text-decoration-color: #ff565b;"> here </a> !
@@ -15,6 +20,10 @@ I am currently a student studying in Singapore Polytechnic, under the Diploma in
   <li>MongoDB</li>
   <li>Tableau</li>
 </ul>
+
+ 📫 Socials:
+ - LinkedIn: https://www.linkedin.com/in/edward14/
+ - Instagram: https://www.instagram.com/ed.w4.rd/
 
 🤓 Be sure to follow me for updates in my coding journey. 
 
