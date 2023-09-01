@@ -1,8 +1,9 @@
 # HELLO! 👋 I AM EDWARD.
+--------
 
-🧑‍🎓 I am currently a student studying in Singapore Polytechnic, under the Diploma in Applied AI and Analytics. 
+Who am I?
 
-I am also:
+🧑‍🎓 A student studying in Singapore Polytechnic, under the Diploma in Applied AI and Analytics. 
 
 🎓 A Singapore Polytechnic Scholar
 
