@@ -1,5 +1,4 @@
 # HELLO! 👋 I AM EDWARD.
---------
 
 Who am I?
 
