@@ -1,5 +1,6 @@
-# Hello! 👋 I am Edward.
+# HELLO! 👋
 -------------------------
+# I am Edward.
 I am currently a student studying in Singapore Polytechnic, under the Diploma in Applied AI and Analytics. 
 
 🧑‍💻 Welcome to my GitHub. The repositories in my profile consists of my projects that I have worked on throughout my coding experience so far!
