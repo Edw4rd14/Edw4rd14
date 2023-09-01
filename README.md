@@ -26,10 +26,8 @@ Who am I?
 </ul>
 
  📫 Socials:
- 
-LinkedIn: https://www.linkedin.com/in/edward14/
-
-Instagram: https://www.instagram.com/ed.w4.rd/
+- LinkedIn: https://www.linkedin.com/in/edward14/
+- Instagram: https://www.instagram.com/ed.w4.rd/
 
 🤓 Be sure to follow me for updates in my coding journey. 
 
