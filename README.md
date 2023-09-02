@@ -23,6 +23,7 @@ Who am I?
   <li>Postman API</li>
   <li>MongoDB</li>
   <li>Tableau</li>
+  <li>Minitab</li>
 </ul>
 
  📫 Socials:
