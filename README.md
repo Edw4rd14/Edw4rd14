@@ -34,7 +34,9 @@ The repositories in my profile consists of my projects that I have worked on thr
 - Personal Email: edw4rd20005@gmail.com
 
 📊 GitHub Statistics:
+
 ![Edward's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edw4rd14&show_icons=true&theme=dark)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Edw4rd14&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 🤓 Be sure to follow me for updates in my coding journey. 
 
