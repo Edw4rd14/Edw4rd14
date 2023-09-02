@@ -14,7 +14,7 @@ Who am I?
 
 🌍 You can also visit my personal portfolio website I created <a href="https://edwards-website.netlify.app" target="_blank" style="color:#ff565b; text-decoration-color: #ff565b;"> here </a> !
 
-⚙️ Programming Languages/ Tools I am familiar with:
+💻 Programming Languages / 🛠️ Tools I am familiar with:
 <ul>
   <li>Python</li>
   <li>HTML, CSS</li>
