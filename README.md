@@ -35,6 +35,8 @@ The repositories in my profile consists of my projects that I have worked on thr
 
 🤓 Be sure to follow me for updates in my coding journey. 
 
+![](https://komarev.com/ghpvc/?username=Edw4rd14&color=blue)
+
 Thank you for visiting! 🤩
 <!--
 **Edw4rd14/Edw4rd14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
