@@ -2,7 +2,7 @@
 
 Who am I?
 
-🧑‍🎓 A student studying in Singapore Polytechnic, under the Diploma in Applied AI and Analytics. 
+👨‍🎓 A student studying in Singapore Polytechnic, under the Diploma in Applied AI and Analytics. 
 
 🎓 A Singapore Polytechnic Scholar
 
@@ -12,7 +12,7 @@ Who am I?
 
 🧑‍💻 Welcome to my GitHub. The repositories in my profile consists of my projects that I have worked on throughout my coding experience so far!
 
-🌍 You can also visit my personal portfolio website I created <a href="https://edwards-website.netlify.app" target="_blank" style="color:#ff565b; text-decoration-color: #ff565b;"> here </a> !
+🌍 You can also visit my personal portfolio website I created <a href="https://edwards-website.netlify.app" target="_blank"> here </a> !
 
 💻 Programming Languages / 🛠️ Tools I am familiar with:
 <ul>
