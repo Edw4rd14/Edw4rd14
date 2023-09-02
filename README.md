@@ -10,7 +10,7 @@
 
 --------
 
-## ✨ Welcome to my GitHub.✨ 
+# ✨ Welcome to my GitHub.✨ 
 
 The repositories in my profile consists of my projects that I have worked on throughout my coding experience so far!
 
@@ -36,7 +36,6 @@ The repositories in my profile consists of my projects that I have worked on thr
 📊 GitHub Statistics:
 
 ![Edward's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edw4rd14&show_icons=true&theme=dark&rank_icon=github)
-
 ^ I'm working on it 😭
 
 🤓 Be sure to follow me for updates in my coding journey. 
@@ -44,17 +43,3 @@ The repositories in my profile consists of my projects that I have worked on thr
 ![](https://komarev.com/ghpvc/?username=Edw4rd14&color=blue)
 
 Thank you for visiting! 🤩
-<!--
-**Edw4rd14/Edw4rd14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
