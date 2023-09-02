@@ -33,6 +33,9 @@ The repositories in my profile consists of my projects that I have worked on thr
 - Instagram: https://www.instagram.com/ed.w4.rd/
 - Personal Email: edw4rd20005@gmail.com
 
+📊 GitHub Statistics:
+![Edward's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edw4rd14&show_icons=true&theme=dark)
+
 🤓 Be sure to follow me for updates in my coding journey. 
 
 ![](https://komarev.com/ghpvc/?username=Edw4rd14&color=blue)
