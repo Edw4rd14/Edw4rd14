@@ -28,6 +28,7 @@ Who am I?
  📫 Socials:
 - LinkedIn: https://www.linkedin.com/in/edward14/
 - Instagram: https://www.instagram.com/ed.w4.rd/
+- Personal Email: edw4rd20005@gmail.com
 
 🤓 Be sure to follow me for updates in my coding journey. 
 
