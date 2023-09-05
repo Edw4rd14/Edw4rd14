@@ -28,7 +28,7 @@ The repositories in my profile consists of my projects that I have worked on thr
   <li>Minitab</li>
 </ul>
 
-🌱 Currently learning React Native.
+🌱 Currently learning: <b>React Native</b> to design an application.
 
  📫 Socials:
 - LinkedIn: https://www.linkedin.com/in/edward14/
