@@ -2,7 +2,7 @@
 
 🤷‍♂️ <b>Who am I ?</b>
 
-👨‍🎓 A student studying in Singapore Polytechnic, under the Diploma in Applied AI and Analytics
+👨‍🎓 A student studying in Singapore Polytechnic, under the Diploma in Applied Artificial Intelligence and Analytics
 
 🎓 A Singapore Polytechnic Scholar
 
