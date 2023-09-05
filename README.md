@@ -12,7 +12,7 @@
 
 # ✨ Welcome to my GitHub.✨ 
 
-The repositories in my profile consists of my projects that I have worked on throughout my coding experience so far!
+The repositories in my profile consists of my projects that I have worked on throughout my coding experience so far !
 
 🌍 You can also visit my personal portfolio website I created <a href="https://edwards-website.netlify.app" target="_blank"> here </a> !
 
@@ -27,6 +27,8 @@ The repositories in my profile consists of my projects that I have worked on thr
   <li>Tableau</li>
   <li>Minitab</li>
 </ul>
+
+🌱 Currently learning React Native.
 
  📫 Socials:
 - LinkedIn: https://www.linkedin.com/in/edward14/
@@ -43,4 +45,4 @@ The repositories in my profile consists of my projects that I have worked on thr
 
 ![](https://komarev.com/ghpvc/?username=Edw4rd14&color=blue)
 
-Thank you for visiting! 🤩
+Thank you for visiting‼️ 🤩
