@@ -10,7 +10,7 @@
 
 --------
 
-# ✨ Welcome to my GitHub.✨ 
+# ✨ WELCOME TO MY GITHUB ✨  
 
 The repositories in my profile consists of my projects that I have worked on throughout my coding experience so far !
 
