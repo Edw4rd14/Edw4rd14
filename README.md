@@ -19,7 +19,8 @@ The repositories in my profile consists of my projects that I have worked on thr
 💻 Programming Languages / 🛠️ Tools I am familiar with:
 <ul>
   <li>Python</li>
-  <li>HTML, CSS</li>
+  <li>HTML, CSS, Tailwind CSS</li>
+  <li>ReactJS</li>
   <li>Javascript</li>
   <li>MySQL | SQLServer</li>
   <li>Postman API</li>
@@ -27,8 +28,6 @@ The repositories in my profile consists of my projects that I have worked on thr
   <li>Tableau</li>
   <li>Minitab</li>
 </ul>
-
-🌱 Currently learning: <b>React Native</b> to design an application.
 
  📫 Socials:
 - LinkedIn: https://www.linkedin.com/in/edward14/
