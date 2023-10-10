@@ -30,7 +30,8 @@ The repositories in my profile consists of my projects that I have worked on thr
 </ul>
 
 🌱 Currently I am Learning:
-- R Programming Language
+- React JS
+- Axios
 
  📫 Socials:
 - LinkedIn: https://www.linkedin.com/in/edward14/
