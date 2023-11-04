@@ -21,6 +21,8 @@ The repositories in my profile consists of my projects that I have worked on thr
   <li>Python</li>
   <li>HTML, CSS, Tailwind CSS</li>
   <li>React Native</li>
+  <li>ReactJS</li>
+  <li>Axios</li>
   <li>Javascript</li>
   <li>MySQL | SQLServer</li>
   <li>Postman API</li>
@@ -30,8 +32,7 @@ The repositories in my profile consists of my projects that I have worked on thr
 </ul>
 
 🌱 Currently I am Learning:
-- React JS
-- Axios
+- How to get a better sleep schedule
 
  📫 Socials:
 - LinkedIn: https://www.linkedin.com/in/edward14/
