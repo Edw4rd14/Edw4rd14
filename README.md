@@ -41,6 +41,8 @@ The repositories in my profile consists of my projects that I have worked on thr
 
 📊 GitHub Statistics:
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![Edward's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edw4rd14&show_icons=true&theme=dark&rank_icon=github)
 
 ^ I'm working on it 😭
