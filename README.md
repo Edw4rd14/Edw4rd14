@@ -14,7 +14,7 @@
 
 The repositories in my profile consists of my projects that I have worked on throughout my coding experience so far !
 
-🌍 You can also visit my personal portfolio website I created <a href="https://edwards-website.netlify.app" target="_blank"> here </a> !
+🌍 You can also visit my personal portfolio website I created <a href="https://edwards-website.netlify.app" target="_blank">here</a> !
 
 💻 Programming Languages / 🛠️ Tools I am familiar with:
 
