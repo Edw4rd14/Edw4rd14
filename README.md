@@ -18,19 +18,6 @@ The repositories in my profile consists of my projects that I have worked on thr
 
 💻 Programming Languages / 🛠️ Tools I am familiar with:
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,anaconda,html,css,bootstrap,tailwind,js,jquery,react,nodejs,flask,mongodb,sqlite,netlify,notion,postman,docker,figma,git,github,gitlab,bash&perline=13)](https://skillicons.dev)
-<ul>
-  <li>Python</li>
-  <li>HTML, CSS, Tailwind CSS</li>
-  <li>React Native</li>
-  <li>ReactJS</li>
-  <li>Axios</li>
-  <li>Javascript</li>
-  <li>MySQL | SQLServer</li>
-  <li>Postman API</li>
-  <li>MongoDB</li>
-  <li>Tableau</li>
-  <li>Minitab</li>
-</ul>
 
 🌱 Currently I am Learning:
 - How to get a better sleep schedule
