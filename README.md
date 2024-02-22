@@ -17,6 +17,7 @@ The repositories in my profile consists of my projects that I have worked on thr
 🌍 You can also visit my personal portfolio website I created <a href="https://edwards-website.netlify.app" target="_blank"> here </a> !
 
 💻 Programming Languages / 🛠️ Tools I am familiar with:
+
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,anaconda,html,css,bootstrap,tailwind,js,jquery,react,nodejs,flask,mongodb,sqlite,netlify,notion,postman,docker,figma,git,github,gitlab,bash&perline=13)](https://skillicons.dev)
 
 🌱 Currently I am Learning:
